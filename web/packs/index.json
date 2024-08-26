@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "ugly.json"
+  ],
+  "homeserver_url": "https://matrix.catgirl.cloud"
+}
